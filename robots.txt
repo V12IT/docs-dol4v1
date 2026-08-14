@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-fuc45o.salamkita.sbs/sitemap.xml
